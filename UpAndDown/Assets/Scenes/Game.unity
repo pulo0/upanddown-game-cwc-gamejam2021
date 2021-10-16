@@ -2846,9 +2846,9 @@ MonoBehaviour:
     R - Restart level
 
     Spacebar
-    - Jump
+    - Jump (You can double jump)
 
-    LMB - Attack (You can double jump)
+    LMB - Attack
 
     Tab - Pause game'
   m_isRightToLeft: 0
